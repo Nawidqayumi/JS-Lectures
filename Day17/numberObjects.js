@@ -25,3 +25,4 @@ console.log("toPrecision() " + numbers.num2.toPrecision()); //13.3714
 console.log("toPrecision() " + numbers.num2.toPrecision(2)); //13
 console.log("toPrecision() " + numbers.num2.toPrecision(3)); //13.4
 console.log("toPrecision() " + numbers.num2.toPrecision(10)); //13.37140000
+
